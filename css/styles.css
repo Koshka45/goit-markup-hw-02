@@ -1,0 +1,64 @@
+:root{
+
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
+a{
+    text-decoration: none;
+}
+ul{
+    list-style-type: none;
+}
+.header-logo{
+    font-family: 'Raleway', sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 1.17;
+    color: #2E2F42;
+    text-transform: uppercase;
+    align-items: center;
+    letter-spacing: 0.03em;
+}
+.header-list{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+}
+.adress-list{
+    font-size: 16px;
+    line-height: 1.5;
+    color: #434455;
+    letter-spacing: 0.02;
+}
+.hero-title{
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 1.071;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+}
+.hero-btn{
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 16px;
+    align-items: center;
+    letter-spacing: 0.04em;
+    color: #FFFFFF;
+}
+
+
+    
+    
+    
+    
+    
+
+
+
+
+
