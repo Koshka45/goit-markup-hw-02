@@ -56,13 +56,15 @@ body{
     color: var(--second-color); 
 }
 
-
+.adress{
+    font-style: normal;
+}
 .adress-link{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: var(--subtitle-color);
-    font-style: normal;
+    
 }
 .adress-link:hover,
 .adress-link:focus{
